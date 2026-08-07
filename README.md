@@ -48,9 +48,8 @@ Me chamo dineopolis Hugo e atualmente estou Estudando Engenharia de software no 
     alt="Top Languages"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Dineopolis-Hugo"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Dineopolis-Hugo&theme=midnight-purple&custom_title=Tecnologias&layout=compact"
   />
 </p>
 
 />
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Dineopolis-Hugo)](https://github.com/stats-organization/github-stats-extended)
