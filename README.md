@@ -35,22 +35,22 @@ Me chamo dineopolis Hugo e atualmente estou Estudando Engenharia de software no 
  ### |📊Estatísticas
 
 <p>
-<img
-   align=left
-    alt=GithubStats
-    height=200
+  <img
+    align="left"
+    alt="Github Stats"
+    height="200"
     style="padding-right: 10px;"
- src="[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Dineopolis-Hugo&theme=midnight-purple&include_all_commits=true&locale=pt-br)]"
-
-/>
-
-<p>
-<img
-   align=left
-    alt=GithubStats
-    height=200
+    src="https://github-stats-extended.vercel.app/api?username=Dineopolis-Hugo&theme=midnight-purple&include_all_commits=true&locale=pt-br"
+  />
+  
+  <img
+    align="left"
+    alt="Top Languages"
+    height="200"
     style="padding-right: 10px;"
-    src="[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Dineopolis-Hugo)]"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Dineopolis-Hugo"
+  />
+</p>
 
 />
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Dineopolis-Hugo)](https://github.com/stats-organization/github-stats-extended)
