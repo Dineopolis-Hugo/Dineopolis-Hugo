@@ -1,7 +1,7 @@
 # |🥋HUGO
 **`software Engineer Student`**
 
-Me chamo dineopolis Hugo e atualmente estou Estudando Engenharia de software no Instituto federal da paraíba **(IFPB)**. e aqui estrá alguns projetos de estudo inicialmente
+Me chamo dineopolis Hugo e atualmente estou Estudando Engenharia de software no Instituto federal da paraíba **(IFPB)** e aqui estarão meus projetos 
 
 ## |🤖 Linguagens e tecnologias estudadas|
  <img 
