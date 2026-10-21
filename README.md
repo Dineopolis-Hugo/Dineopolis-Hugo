@@ -1,4 +1,4 @@
-# |🥋HUGO
+# |Dineopolis Hugo
 **`software Engineer Student`**
 
 Me chamo dineopolis Hugo e atualmente estou Estudando Engenharia de software no Instituto federal da paraíba **(IFPB)** e aqui estarão meus projetos 
@@ -12,6 +12,21 @@ Me chamo dineopolis Hugo e atualmente estou Estudando Engenharia de software no 
   style="padding-right: 10px"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
           
+ <img 
+  align="left"
+  alt="PYTHON"
+  title="PYTHON"
+  width="30px"
+  style="padding-right: 10px"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
+ 
+ <img 
+  align="left"
+  alt="FLASK"
+  title="FLASK"
+  width="30px"
+  style="padding-right: 10px"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg"/>        
 
   <img
   align="left"
